@@ -31,11 +31,15 @@ Requisito: Estar cursando do 2o ao 5o Semestre do Curso de Engenharia de Produç
 
 ## Programação Semanal
 
-27/09 [Encontro de Abertura](https://docs.google.com/forms/d/1MPulMGF7_8ANKEQCLA6Hf4yWS6e4RarGwzGRov_VWtQ/viewanalytics) (vídeo da turma da manhã)
+27/09 [Encontro de Abertura](http://meusite.mackenzie.br/rogerio/videos/MackAnalytics_20210927.mp4) (vídeo da turma da manhã)
 
 > Apresentação do grupo e proposta; Pesquisa de perfil do aluno; Uso do ambiente Colab, curso Coursera, Instalação do Python 
 
-04/10 Primeiros programas de Python
+04/10 Primeiros programas de Python(http://meusite.mackenzie.br/rogerio/videos/MackAnalytics_20211004.mp4) (vídeo da turma da manhã)
+
+> [Código Python de notas do segundo encontro](https://colab.research.google.com/github/Rogerio-mack/work/blob/main/MackAnalytics_2.ipynb) 
+
+> [Python Tutor](https://pythontutor.com/) *Acompanhe a execução de um código Python passo-a-passo*
 
 11/10 *Ponte Feriado* 
 
