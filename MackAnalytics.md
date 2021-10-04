@@ -35,7 +35,7 @@ Requisito: Estar cursando do 2o ao 5o Semestre do Curso de Engenharia de Produç
 
 > Apresentação do grupo e proposta; Pesquisa de perfil do aluno; Uso do ambiente Colab, curso Coursera, Instalação do Python 
 
-04/10 Primeiros programas de Python(http://meusite.mackenzie.br/rogerio/videos/MackAnalytics_20211004.mp4) (vídeo da turma da manhã)
+04/10 [Primeiros programas de Python](http://meusite.mackenzie.br/rogerio/videos/MackAnalytics_20211004.mp4) (vídeo da turma da manhã)
 
 > [Código Python de notas do segundo encontro](https://colab.research.google.com/github/Rogerio-mack/work/blob/main/MackAnalytics_2.ipynb) 
 
