@@ -45,6 +45,12 @@ Requisito: Estar cursando do 2o ao 5o Semestre do Curso de Engenharia de Produç
 
 18/10 Forms e Criação de uma base de dados com Pandas
 
+> [Aquisição de Dados com Pandas](https://colab.research.google.com/github/Rogerio-mack/Analise-de-Dados/blob/main/EDA_T3_Pandas_Aquisicao.ipynb)
+
+> [Pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
+
+> [Forms com Colab](https://colab.research.google.com/notebooks/forms.ipynb)
+
 25/10 Consultando os Dados com Pandas  
 
 > Data limite para conclusão do Coursera 
