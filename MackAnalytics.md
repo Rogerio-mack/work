@@ -43,7 +43,7 @@ Requisito: Estar cursando do 2o ao 5o Semestre do Curso de Engenharia de Produç
 
 11/10 *Ponte Feriado* 
 
-18/10 Forms e Criação de uma base de dados com Pandas
+18/10 [Forms e Criação de uma base de dados com Pandas](http://meusite.mackenzie.br/rogerio/videos/MackAnalytics_20211018.mp4) (vídeo da turma da manhã)
 
 > [Material do Encontro: Um exemplo simples de criação de uma base de dados com o Pandas e atualização a partir de um Formulário](https://colab.research.google.com/github/Rogerio-mack/work/blob/main/MackAnalytics_FormInputPandas.ipynb) 
 
