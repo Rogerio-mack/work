@@ -55,7 +55,11 @@ Requisito: Estar cursando do 2o ao 5o Semestre do Curso de Engenharia de Produç
 
 25/10 Consultando os Dados com Pandas  
 
-> Data limite para conclusão do Coursera 
+> [Seleções simples de Dados com Pandas](https://colab.research.google.com/github/Rogerio-mack/work/blob/main/MackAnalytics_SelecaoPandas.ipynb)
+
+> **Data limite para conclusão do Coursera** 
+
+> **Pensando no seu projeto de *data entry*?** 
 
 01/11  *Ponte Feriado*
 
