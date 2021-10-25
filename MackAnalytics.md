@@ -53,7 +53,7 @@ Requisito: Estar cursando do 2o ao 5o Semestre do Curso de Engenharia de Produç
 
 >> [Forms com Colab](https://colab.research.google.com/notebooks/forms.ipynb)
 
-25/10 Consultando os Dados com Pandas  
+25/10 [Consultando os Dados com Pandas](http://meusite.mackenzie.br/rogerio/videos/MackAnalytics_20211025.mp4) (vídeo da turma da manhã) 
 
 > [Seleções simples de Dados com Pandas](https://colab.research.google.com/github/Rogerio-mack/work/blob/main/MackAnalytics_SelecaoPandas.ipynb)
 
