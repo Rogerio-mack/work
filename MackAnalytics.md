@@ -59,7 +59,7 @@ Requisito: Estar cursando do 2o ao 5o Semestre do Curso de Engenharia de Produç
 
 > **Data limite para conclusão do Coursera** 
 
-> **Pensando no seu projeto de *data entry*?** 
+> **Pensando no seu projeto de *data entry*?** Você deve apresentar sua proposta em 08/11. Até lá, se tiver dúvidas, envie no Slack para que possamos chegar em 08/11 com propostas mais ou menos claras e efetivas. ;-)
 
 01/11  *Ponte Feriado*
 
