@@ -63,7 +63,9 @@ Requisito: Estar cursando do 2o ao 5o Semestre do Curso de Engenharia de Produç
 
 01/11  *Ponte Feriado*
 
-08/11 Apresentação das propostas de projeto *data entry* dos alunos
+08/11 [Apresentação das propostas de projeto *data entry* dos alunos](http://meusite.mackenzie.br/rogerio/videos/MackAnalytics_20211108.mp4) (vídeo da turma da manhã) 
+
+> Projeto do *Matheus Costa*: Data Entry para avaliação de eventos (veja o vídeo acima)
 
 15/11 *Ponte Feriado*  
 
