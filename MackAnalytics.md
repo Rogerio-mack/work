@@ -69,7 +69,10 @@ Requisito: Estar cursando do 2o ao 5o Semestre do Curso de Engenharia de Produç
 
 15/11 *Ponte Feriado*  
 
-22/11 Sessão de Acompanhamento dos Projetos
+22/11 [Sessão de Acompanhamento dos Projetos](http://meusite.mackenzie.br/rogerio/videos/MackAnalytics_20211122.mp4)
+
+> [NoteBook do projeto do Matheus](https://colab.research.google.com/drive/1NxXhtSPH5BHz7ke-L0jb2Bvhjq4w29G_?usp=sharing), *discutido na sessão da manhã*
+
 
 29/11 Entrega Final dos Projetos
 
