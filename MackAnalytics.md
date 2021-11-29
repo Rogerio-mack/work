@@ -74,7 +74,9 @@ Requisito: Estar cursando do 2o ao 5o Semestre do Curso de Engenharia de Produç
 > [NoteBook do projeto do Matheus](https://colab.research.google.com/drive/1NxXhtSPH5BHz7ke-L0jb2Bvhjq4w29G_?usp=sharing), *discutido na sessão da manhã*
 
 
-29/11 Entrega Final dos Projetos
+29/11 [Entrega Final dos Projetos](http://meusite.mackenzie.br/rogerio/videos/MackAnalytics_20211129.mp4) (*vídeo turma da manhã*)
+
+> [Matheus Fellipe Gomes Costa - TIA: 32091052](https://colab.research.google.com/drive/11ATww7aDL70PzLKbFNJFYFEjfAevArJa?usp=sharing)
 
 <br />
 <br />
