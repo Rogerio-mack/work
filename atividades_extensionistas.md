@@ -129,9 +129,9 @@ Ou ainda envolver o desenvolvimento de 'Pacotes' incrementados ao longo do tempo
 
 Contribuições em outros projetos abertos são mais difíceis, e por isso mesmo, também devem ser consideradas. 
 
-### Selo de Qualidade Mackenzie
+## Selo de Qualidade Mackenzie
 
-Aqui, e nas atividades anteriores, a qualidade das soluções e códigos tornados públicos pode representar um problema quando soluções de baixa qualidade levam o nome da Universidade e seus alunos. Fica aqui a sugestão de criação de um **Selo Mackenzie** para as melhores soluções. As soluções seriam avaliadas por pelo menos mais dois professores além do orientador (no modo *blind view*). O selo garantiria a qualidade da solução, e estaria junto com o código disponível. Ele também permitiria ao aluno identificar o produto junto ao seu *LinkedIn* e outras redes sociais para a construção do seu portfólio. 
+> Aqui, e nas atividades anteriores, a qualidade das soluções e códigos tornados públicos pode representar um problema quando soluções de baixa qualidade levam o nome da Universidade e seus alunos. Fica aqui a sugestão de criação de um **Selo Mackenzie** para as melhores soluções. As soluções seriam avaliadas por pelo menos mais dois professores além do orientador (no modo *blind view*). O selo garantiria a qualidade da solução, e estaria junto com o código disponível. Ele também permitiria ao aluno identificar o produto junto ao seu *LinkedIn* e outras redes sociais para a construção do seu portfólio. 
 
 # 4. Atividades Extensionistas independentes de Disciplinas
 
