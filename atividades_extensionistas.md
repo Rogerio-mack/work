@@ -125,9 +125,9 @@ Ou ainda envolver o desenvolvimento de 'Pacotes' incrementados ao longo do tempo
 
 >> PROBABILIDADE E ESTATÍSTICA APLICADAS, SI - Pacote de Funcionalidades Estatísticas em Python (ver projeto análogo em R já desenvolvido por Universidade na Holanda , https://www.jamovi.org/)
 
->> WEB MOBILE, SI - Desenvolvimento de Pacotes de Jogos que são incrementados a cada semestre.
+>> WEB MOBILE, SI - Desenvolvimento de Pacotes de Jogos que são incrementados a cada semestre OU Pacote para criação Dashsboard de Sensores em Dispositivos Móveis 
 
-
+Contribuições em outros projetos abertos são mais difíceis, e por isso mesmo, também devem ser consideradas. 
 
 
 
