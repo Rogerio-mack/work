@@ -55,9 +55,9 @@ Disciplinas, Cursos:
 
 * Para desenvolvimento de habilidade de programação, construção de sites, html:
 
->> PROGRAMAÇÃO DE SISTEMAS I/II, SI
+>> FUNDAMENTOS DE WEB, SI
 
->> DESENVOLVIMENTO DE SISTEMAS I/II, SI
+>> PROGRAMAÇÃO DE SISTEMAS I/II, SI
 
 >> COMPUTACAO VISUAL, CC
 
@@ -78,6 +78,58 @@ Construção de páginas e sites de conteúdo são bastante úteis para democrat
 A proposta aqui é os alunos criarem Wiki relevantes com conteúdo original, e que não sejam encontramos normalmente em outros sites. A ideia é que desenvolvam 
 conteúdos de uma disciplina, preferencialmente aprofundando tópicos ou um problema visto em sala de aula ou não abordados em sala mas que estão relacionados ao conteúdo da aula (por exemplo, em Aprendizado de Máquina, são inúmeros algoritmos de aprendizado não Supervisioando e um específico, como XGBOOST, não tratado em sala pode ser o tema desenvolvido pelos alunos). O sites devem priveligiar uma forma inovadora de apresentação dos conteúdos incluindo interatividade ou atividades práticas 
 para quem consulta o site. 
+
+## 3. Open Source Mackenzie 
+
+Disciplinas, Cursos:
+
+* Nas disciplinas com foco no desenvolvimento de habilidades de programação e criação de algoritmos:
+
+>> PROGRAMAÇÃO DE SISTEMAS I/II, SI
+
+>> PROJETO E ANALISE DE ALGORITMOS I/II, CC
+
+>> WEB MOBILE
+
+* Nas disciplinas com foco na aplicação de algoritmos:
+
+>> COMPUTACAO VISUAL, CC
+
+>> ALGORITMOS NUMERICOS, CC
+
+>> PROBABILIDADE E ESTATÍSTICA APLICADAS, SI
+
+>> CIÊNCIA DE DADOS, SI
+
+>> INTELIGÊNCIA ARTIFICIAL, CC/SI
+
+>> e quaisquer outras disciplinas onde podem ser desenvolvidas aplicações de algoritmos.
+
+A construção de código open source de qualidade para a solução de problemas permite desenvolver várias habilidades nos alunos e é de grande utilidade para a comunidade, seja de estudantes, seja de profissionais buscando solução de problemas. 
+
+O desenvolvimento desses códigos podem envolver soluções específicas, de interesse, e que são devidamente documentadas e com exemplos de uso para o uso público:
+
+* Rotinas ou códigos individuais (exemplos)
+
+>> COMPUTACAO VISUAL, CC - Retorna a Curva de Bezier de ordem n para 2 pontos em Python OU Renderiza uma Imagem de Fluído com JavaScript
+
+>> ALGORITMOS NUMERICOS, CC - Obtêm as Raízes de uma Função empregando o gradiente automático do TensorFlow OU Diagonalização de Uma Matriz em Python
+
+>> PESQUISA OPERACIONAL APLICADA, SI - Solução de Problemas de Otimização Inteira com a Linguagem Júlia
+
+>> INTELIGÊNCIA ARTIFICIAL, CC/SI, CIÊNCIA DE DADOS, SI - Visualização Dinâmica de Fronteira de Decisão com Plotly para Algoritmos de Classificação
+
+Ou ainda envolver o desenvolvimento de 'Pacotes' incrementados ao longo do tempo pelos alunos.
+
+* Pacotes ou soluções de serviços completas (exemplos):
+
+>> PROBABILIDADE E ESTATÍSTICA APLICADAS, SI - Pacote de Funcionalidades Estatísticas em Python (ver projeto análogo em R já desenvolvido por Universidade na Holanda , https://www.jamovi.org/)
+
+>> WEB MOBILE, SI - Desenvolvimento de Pacotes de Jogos que são incrementados a cada semestre.
+
+
+
+
 
 
 
