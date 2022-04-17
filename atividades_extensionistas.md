@@ -47,3 +47,45 @@ O Kaggle Mackenzie pode estar organizado em diferentes linhas temáticas. A depe
 | |							Reconhecimento de Imagens |
 
 Alguns temas, são mais apropriados para uma disciplina, mas não para outra. Por exemplo, EDA Exploratory Data Analysis faz bastante sentido para Probabilidade e Estatística Aplicadas, mas faz pouco sentido para uma disciplina como Inteligência Artificial.
+
+
+## 2. Wiki Mackenzie 
+
+Disciplinas, Cursos:
+
+> Para desenvolvimento de habilidade de programação, construção de sites, html:
+
+>> PROGRAMAÇÃO DE SISTEMAS I/II, SI
+
+>> DESENVOLVIMENTO DE SISTEMAS I/II, SI
+
+>> COMPUTACAO VISUAL, CC
+
+> Para desenvolvimento de Conteúdos (com exemplos da forma ativa a serem desenvolvidos os conteúdos)
+
+>> LINGUAGENS FORMAIS E AUTOMATOS https://brilliant.org/wiki/finite-state-machines/
+
+>> TEORIA DOS GRAFOS https://brilliant.org/wiki/hall-marriage-theorem/?subtopic=advanced-combinatorics&chapter=graph-theory
+
+>> PROBABILIDADE E ESTATÍSTICA APLICADAS https://setosa.io/ev/conditional-probability/
+
+>> CIÊNCIA DE DADOS ou INTELIGÊNCIA ARTIFICIAL  https://setosa.io/ev/principal-component-analysis/ 
+
+>> e quaisquer outras disciplinas com foco conteudista
+
+Construção de páginas e sites de conteúdo são bastante úteis para democratizar e levar informação de qualidade às pessoas e basta ver o sucesso da Wikipedia e outros sites do gênero. A criação de Wikis também é empregada como metodologia de aprendizagem ativa. Para as disciplinas que envolvem desenvolvimento Web os alunos desenvolvem técnicas e habilidade para a construção de sites, e para quaisquer disciplinas contribuem para a comunidade fornecendo à alunos e o público em geral uma introdução clara e ativa de tópicos das disciplinas.
+
+A proposta aqui é os alunos criarem Wiki relevantes com conteúdo original, e que não sejam encontramos normalmente em outros sites. A ideia é que desenvolvam 
+conteúdos de uma disciplina, preferencialmente aprofundando tópicos ou um problema visto em sala de aula ou não abordados em sala mas que estão relacionados ao conteúdo da aula (por exemplo, em Aprendizado de Máquina, são inúmeros algoritmos de aprendizado não Supervisioando e um específico, como XGBOOST, não tratado em sala pode ser o tema desenvolvido pelos alunos). O sites devem priveligiar uma forma inovadora de apresentação dos conteúdos incluindo interatividade ou atividades práticas 
+para quem consulta o site. 
+
+
+
+
+
+
+
+
+
+
+
