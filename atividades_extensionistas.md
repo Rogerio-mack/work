@@ -53,7 +53,7 @@ Alguns temas, são mais apropriados para uma disciplina, mas não para outra. Po
 
 Disciplinas, Cursos:
 
-> Para desenvolvimento de habilidade de programação, construção de sites, html:
+* Para desenvolvimento de habilidade de programação, construção de sites, html:
 
 >> PROGRAMAÇÃO DE SISTEMAS I/II, SI
 
@@ -61,7 +61,7 @@ Disciplinas, Cursos:
 
 >> COMPUTACAO VISUAL, CC
 
-> Para desenvolvimento de Conteúdos (com exemplos da forma ativa a serem desenvolvidos os conteúdos)
+* Para desenvolvimento de Conteúdos (com exemplos da forma ativa a serem desenvolvidos os conteúdos)
 
 >> LINGUAGENS FORMAIS E AUTOMATOS https://brilliant.org/wiki/finite-state-machines/
 
