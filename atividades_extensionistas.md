@@ -129,6 +129,46 @@ Ou ainda envolver o desenvolvimento de 'Pacotes' incrementados ao longo do tempo
 
 Contribuições em outros projetos abertos são mais difíceis, e por isso mesmo, também devem ser consideradas. 
 
+### Selo de Qualidade Mackenzie
+
+Aqui, e nas atividades anteriores, a qualidade das soluções e códigos tornados públicos pode representar um problema quando soluções de baixa qualidade levam o nome da Universidade e seus alunos. Fica aqui a sugestão de criação de um **Selo Mackenzie** para as melhores soluções. As soluções seriam avaliadas por pelo menos mais dois professores além do orientador (no modo *blind view*). O selo garantiria a qualidade da solução, e estaria junto com o código disponível. Ele também permitiria ao aluno identificar o produto junto ao seu *LinkedIn* e outras redes sociais para a construção do seu portfólio. 
+
+# 4. Atividades Extensionistas independentes de Disciplinas
+
+## 4.1. Participação de Hackathons
+
+Desenvolvidos em conjunto com empresas, proporcionam o diálogo da Universidade com questões de interesse de Empresas. Há diversas oportunidades aqui para Hackathons:
+
+> Hackathons de Ciência de Dados
+
+> Hackathons para desenvolvimento de Aplicações Móveis
+
+> Hackathons para Construção de Sites
+
+> Hackathons Temáticos para Desenvolvimento de Soluções (Clima, Cidades Inteligentes, Economia Circular etc.)
+
+## 4.2. Participação na Organização de Eventos
+
+Horas de atividades extensionistas correspondente à participação na Organização de Eventos, como apoio/monitoria de Bootcamps, Maratonas de Programação, Competições, Semanas da FCI e WTT etc.
+
+## 4.3. Competições Online de Ciência de Dados e Aprendizado de Máquina
+
+A Faculdade por criar desafios de Ciência de Dados, Aprendizado de Máquina e IA em conjunto com Empresas ou outras unidades buscando dados e problemas que sejam de interesse das empresas ou das unidades. Diferente do Hackthon, as competições teriam um formato online e livre. Os desafios são postados com um prazo para entrega de soluções e as equipes ou alunos inscritos vão enviando/postando soluções que são avaliadas ao final (à exemplo das competições do Kaggle, Netflix etc.).
+
+Exemplos:
+
+> Faculdade de Direito: (Dados) Dados de Precatórios; (Desafio) Obter, a partir de dados públicos dos processos, informações sobre o valor e previsão de pagamento dos precatóriosb
+
+> Distúrbios do Comportamento: (Dados) EEG, NIRS etc.; (Desafio) Obter os melhores modelos de aprendizado de diagnósticos de distúrbios
+
+> *Oriba*, Loja de Roupas: (Dados) Dados de Vendas e Estoques; (Desafio) Obter os melhores modelos de previsão de estoques
+
+
+
+
+
+
+
 
 
 
