@@ -3,53 +3,51 @@
 | Componente | Carga Horária |
 |-|-|
 | Introdução ao Python para IA |	16 |
-| Análise de Dados |	16 |
+| Análise de Dados com Python e Ferramentas |	16 |
 | Paradigmas de IA e Aprendizado de Máquina |	16 |
 | Aprendizado Supervisionado: Regressão e Classificação	| 16 |
 | Aprendizado Não Supervisionado: Clusterização, Associação e Detecção de Anomalia	| 16 |
-| Modelos Aprendizado de Máquina para Séries Temporais | 16 |
-| Deep Learning I - Dados Tabulares	| 16 |
-| Deep Learning II - Dados Multimídia	| 16 |
-| Outros Modelos de IA	| 16 |
+| Modelos de Aprendizado de Máquina para Séries Temporais | 16 |
+| Deep Learning I - Modelos Sequenciais | 16 |
+| Deep Learning II - Modelos Convolucionais e Recorrentes | 16 |
+| Outros Modelos de IA: Aprendizado de Reforço e técnicas tradicionais de IA	| 16 (\*) |
+| IA e Processamento Big Data	| 16 (\*) |
+| Recuperação de Informação Web	e Processamento de Linguagem Natural | 16 (\*) |
 | Projeto Final	| 16 |
 | **Total** | **160** |
 
+(\*) O SESI pode optar por uma das componentes de acordo com o seu maior interesse.
+
 ## Introdução ao Python para IA (16h)
 
-> *Ementa:* Introdução à linguagem Python para IA.  Variáveis, controle de fluxo,
-estruturas de dados. Bibliotecas Numpy, Pandas, Matplotlib e Seaborn.
+> **Ementa:** Introdução à linguagem `Python` para IA. Ambientes de Programação `Python`. Variáveis, controle de fluxo, estruturas de dados. Obtenção de dados e gráficos. Bibliotecas `NumPy`, `Pandas`, `Matplotlib` e `Seaborn`.
 
-> *Objetivo:* Capacitar o aluno a ler, compreender e adaptar scripts em Python e suas principais bibliotecas
-para criação de modelos de IA e Aprendizado de Máquina.
+##  Análise de Dados com Python e Ferramentas (16h)
 
-> *Conteúdo Programático:* Introdução à programação em Python. Estruturas de dados básicas,
-listas, dicionários, funções e arquivos. Principais bibliotecas de Python para
-Ciência de Dados. NumPy. Pandas. Dataframe, aquisição seleção e manipulação de dados, merge e
-join. Matplotlib e Seaborn. Gráficos de Linha e de Distribuição, Gráficos de Barra,
-Histogramas, Gráfico de Densidade, Boxplot, Linhas de Tendências e Mapas de Calor. 
+> **Ementa:** Ciclo da construção de modelos de Aprendizado de Máquina. Princípios de EDA Exploratory Data Analysis e Preparação de Dados. Tratamento de dados nulos e encode. Princípios de Análise Estatística e modelos simples. Visualização e Análise com `Python` e ferramentas. 
 
-HADLEY, Wickham; GROLEMUND, Garrett. R for Data Science: Import, Tidy,
-Transform, Visualize, and Model Data. O'Reilly. 2016. Disponível em:
-https://r4ds.had.co.nz/ . Acesso em: 23 fev. 2021.
+## Paradigmas de IA e Aprendizado de Máquina (16h)
 
-MCKINNEY Wes. Python for Data Analysis. O'Reilly. 2012. 
+> **Ementa:** IA Tradicional, Aprendizado de Máquina e Ciência de Dados. IA Fraca e IA Forte. Exemplos de casos e aplicações. Modelos Neurais,
+Sistema Fuzzy e Computação Evolutiva.
 
-VANDERPLAS, Jake. Python Data Science Handbook. Sebastopol: O'Reilly,
-2017.
+## Aprendizado Supervisionado: Regressão e Classificação (16h)
 
-## Análise de Dados (16h)
+> **Ementa:** Modelos de Aprendizado Supervisionado. Regressão e Classificação. Estimadores do pacote `Python` `Scikit-Learn`: *regressão linear*, *regressão logística*, *árvores de decisão*, *K-vizinhos mais Próximos*. Sobreajuste e conjuntos de Treinamento e Teste.
 
-> *Ementa:* Introdução à linguagem Python para IA.  Variáveis, controle de fluxo,
-estruturas de dados. Bibliotecas Numpy, Pandas, Matplotlib e Seaborn.
+## Aprendizado Não Supervisionado: Clusterização, Associação e Detecção de Anomalia (16h)
 
-> *Objetivo:* Capacitar o aluno a ler, compreender e adaptar scripts em Python e suas principais bibliotecas
-para criação de modelos de IA e Aprendizado de Máquina.
+> **Ementa:** Modelos de Aprendizado não Supervisionado com o pacote `Python` `Scikit-Learn`. Modelos de clusterização com *k-médias* e clusterização *hierárquica*. Regras de Associação (`apriori`) e sistemas de Recomendação. Princípios de Detecção de Anomalias.
 
-> *Conteúdo Programático:* Introdução à programação em Python. Estruturas de dados básicas,
-listas, dicionários, funções e arquivos. Principais bibliotecas de Python para
-Ciência de Dados. NumPy. Pandas. Dataframe, aquisição seleção e manipulação de dados, merge e
-join. Matplotlib e Seaborn. Gráficos de Linha e de Distribuição, Gráficos de Barra,
-Histogramas, Gráfico de Densidade, Boxplot, Linhas de Tendências e Mapas de Calor. 
+## Modelos de Aprendizado de Máquina para Séries Temporais (16h)
 
+> **Ementa:** Introdução às Séries Temporais. Modelos Estatísticos de Séries Temporais: AR, MA, ARMA, ARIMA e VARIMA com o pacote `Python` `statsmodel`. *Feature Engineering* e o Aprendizado de Máquina para Séries Temporais (aplicação de regressores com o pacote `Python` `Scikit-Learn`). Modelos com Múltiplas Séries Temporais.
 
+## Deep Learning I - Modelos Sequenciais  (16h)
+
+> **Ementa:** Introdução aos Modelos Neurais. Neurônio Artificial e *edes Multi Layer Perceptron*. Modelos MLP com o pacote `Python` `Scikit-Learn`. Introdução aos frameworks de Deep Learning `TensorFlow` e `PyTorch`. Implementação de Modelos sequenciais de regressão e classificação com `TensorFlow` ou `PyTorch`.
+
+## Deep Learning II - Modelos Convolucionais e Recorrentes  (16h)
+
+> **Ementa:** Introdução aos modelos de redes profundas Convolucionais e Recorrentes. Aplicação desses modelos em dados de imagem e linguagem natural. Aplicação de Redes Convolucionais com `TensorFlow` ou `PyTorch` para classificação de Imagens. Autoencoders e *word embeeding*. Modelos recorrentes com `TensorFlow` ou `PyTorch` para previsão de Séries Temporais.
 
