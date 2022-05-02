@@ -1,4 +1,6 @@
-# Proposta de Curso de Inteligência Artificial
+<img src="http://meusite.mackenzie.br/rogerio/mackenzie_logo/UPM.2_horizontal_vermelho.jpg"  width=300, align="right">
+
+# Proposta de Curso de Inteligência Artificial SESI
 
 <br>
 
