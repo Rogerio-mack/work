@@ -2,7 +2,7 @@
 
 | Meausures | Constructor | | Constructor | Meausures |
 |-|-|-|-|-|
-| BDAC Tang $\leftarrow$ |      |   |                           | $\rightarrow$ SC Reeng |
+| BDAC Tang $\leftarrow$ |      |   |                           | $\rightarrow$ SC Reconfig |
 | BDAC Untang  $\leftarrow$ | **BDAC** |$\rightarrow$|  **SCR** | $\rightarrow$ SC Colab |
 | BDAC Human  $\leftarrow$ |      |   |                           | $\rightarrow$ SC Agility |
 ||||                                                          | $\rightarrow$ SC Risk Mgmnt |
@@ -41,6 +41,8 @@
 >> 
 >> ( ) Mais de 50% 
 
+**Coloque aqui valores em escalas fixas a cada 20% por exemplo, e empregue isso para controle como verificar empresas com maior perda no 1o ano e sua reatividade.**
+
 >> a. Em quanto a sua empresa recuperou o valor?
 >> 
 >> ( ) Em menos de 6 meses
@@ -50,6 +52,8 @@
 >> ( ) Entre 13 e 18 meses
 >> 
 >> ( ) Não recuperou
+
+**Verificar o uso de variáveis mediadoras e de moderação**. Ver o livro do https://www.amazon.com.br/Partial-Squares-Structural-Equation-Modeling-ebook/dp/B098TQVZ4W
 
 ##  Bibliometrix
 
