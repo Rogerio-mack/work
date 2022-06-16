@@ -1,4 +1,4 @@
-__all__ = ['printer','print1', 'print2', 'print3']
+__all__ = ['printer','print1', 'print2', 'print3', 'name']
 
 name = 'teste'
 
