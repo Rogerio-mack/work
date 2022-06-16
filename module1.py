@@ -9,7 +9,6 @@ def print1(x):
   return
 
 def print2():
-  global cool
   print("Python is " + cool)
   return
 
