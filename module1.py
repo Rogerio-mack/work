@@ -1,5 +1,7 @@
 __all__ = ['printer','print1', 'print2', 'print3']
 
+name = 'teste'
+
 def printer(x):
   print(x)
   return
