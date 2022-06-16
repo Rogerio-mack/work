@@ -12,7 +12,7 @@ def print1(x):
 
 def print2():
   # teste
-  print("Python is " + cool)
+  print("Python is " + name)
   return
 
 def print3():
