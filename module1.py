@@ -11,6 +11,7 @@ def print1(x):
   return
 
 def print2():
+  # teste
   print("Python is " + cool)
   return
 
