@@ -1,7 +1,5 @@
 __all__ = ['printer','print1', 'print2', 'print3']
 
-global cool
-
 def printer(x):
   print(x)
   return
@@ -11,6 +9,7 @@ def print1(x):
   return
 
 def print2():
+  global cool
   print("Python is " + cool)
   return
 
