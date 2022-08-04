@@ -59,8 +59,11 @@ Melhoria de Processos de Atendimento em Serviços de Saúde
 
 ### of / for / as , O quê, quem, como, quando?
 
-> * O quê: **Projeto Escrito**, Quem: *Professor*, Como: *Avaliar complexidade, acuracidade, técnicas e referencial teórico, análise e resultado*, Quando: *Na entrega final* 
-> * O quê: **Pitch**, Quem: *Professor e Alunos*, Como: *Avaliar argumentação e resultados, originalidade, comunicação*, Quando: *Na apresentação* 
+> * O quê: **Projeto Escrito**, Quem: *Professor*, Como: *Avaliar complexidade, acuracidade, técnicas e referencial teórico, análise e resultado*, Quando: *Entregas parciais e final* 
+
+<br>
+
+> * O quê: **Pitch**, Quem: *Professor e Alunos*, Como: *Definição de critérios pelo grupo (professor e alunos), Avaliar argumentação e resultados, originalidade, comunicação*, Quando: *Na apresentação* 
 
 ## 4. Organização do projeto
 
@@ -76,13 +79,18 @@ Melhoria de Processos de Atendimento em Serviços de Saúde
 
 > * Identificação dos Gaps e Gargalos
 
-> * 
+> * Conclusões
 
+> * Apresentação
 
 ### Equipes de alunos 
 
+> * 3-4 Alunos
+
 ### Docentes envolvidos
+
+> Profs. do 6o semestre
 
 ### Salas de projeto 
 
-
+> NA
