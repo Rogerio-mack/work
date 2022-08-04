@@ -8,7 +8,15 @@
 
 ## 1. Definição do Problema
 
+<a href="url"><img src="https://www.allankern.com.br/blog/wp-content/uploads/2018/06/Gest%C3%A3o-Processos.jpg" align="right" width="500" ></a>
+
 Melhoria de Processos de Atendimento em Serviços de Saúde 
+
+<br>
+
+<br>
+
+<br>
 
 ## 2. Tipologia de projeto: exercício, componente, interdisciplinariedade
 
@@ -60,11 +68,21 @@ Melhoria de Processos de Atendimento em Serviços de Saúde
 
 ### of / for / as , O quê, quem, como, quando?
 
+<a href="url"><img src="https://mystory.msu.edu/wp-content/uploads/2020/01/learning-outcomes.png" align="left" width="300" ></a>
+
+<br>
+
 > * O quê: **Projeto Escrito**, Quem: *Professor*, Como: *Avaliar complexidade, acuracidade, técnicas e referencial teórico, análise e resultado*, Quando: *Entregas parciais e final* 
 
 <br>
 
 > * O quê: **Pitch**, Quem: *Professor e Alunos*, Como: *Definição de critérios pelo grupo (professor e alunos), Avaliar argumentação e resultados, originalidade, comunicação. Empregar o Teammate para avaliação entre 'pares' e nota pela média das avaliações dos pares*, Quando: *Na apresentação* 
+
+<br>
+
+<br>
+
+<br>
 
 ## 4. Organização do projeto
 
