@@ -25,15 +25,23 @@ Melhoria de Processos de Atendimento em Serviços de Saúde
 
 * Planejamento de Processos
 
-## 2.2. Quais as competências que se espera que os alunos desenvolvam?
+### 2.2. Quais as competências que se espera que os alunos desenvolvam?
 
-* Comunicação
+* Competências Transversais
 
-* Pensamento Analítico
+> * Comunicação
 
-* Adaptabilidade
+> * Pensamento Analítico
 
-## 2.3. Quais os *Learning Outcomes* para o projeto? (máx. 6)
+> * Adaptabilidade
+
+* Competências Técnicas
+
+> * Modelagem de Processos
+
+> * Análise e Melhoria de Processos
+
+### 2.3. Quais os *Learning Outcomes* para o projeto? (máx. 6)
 
 * Identificar os processos de atendimento em serviços de saúde
 
@@ -47,6 +55,34 @@ Melhoria de Processos de Atendimento em Serviços de Saúde
 
 * Avaliar cenários e elaborar propostas de melhoria
 
+## 3. Modelo e momentos de avaliação do projeto
 
+### of / for / as , O quê, quem, como, quando?
+
+> * O quê: **Projeto Escrito**, Quem: *Professor*, Como: *Avaliar complexidade, acuracidade, técnicas e referencial teórico, análise e resultado*, Quando: *Na entrega final* 
+> * O quê: **Pitch**, Quem: *Professor e Alunos*, Como: *Avaliar argumentação e resultados, originalidade, comunicação*, Quando: *Na apresentação* 
+
+## 4. Organização do projeto
+
+### Fases
+
+> * Definição da fonte
+
+> * Definição do Escopo e Proposta
+
+> * Levantamento dos Dados
+
+> * Modelagem 
+
+> * Identificação dos Gaps e Gargalos
+
+> * 
+
+
+### Equipes de alunos 
+
+### Docentes envolvidos
+
+### Salas de projeto 
 
 
