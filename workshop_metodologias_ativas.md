@@ -63,6 +63,8 @@ Melhoria de Processos de Atendimento em Serviços de Saúde
 
 * Avaliar os gaps e os gargalos
 
+* Cenários de Melhoria
+
 * Comparar os elementos de melhoria com as competências essenciais em serviços de saúde
 
 * Avaliar cenários e elaborar propostas de melhoria
