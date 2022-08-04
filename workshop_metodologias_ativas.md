@@ -17,8 +17,6 @@ Melhoria de Processos de Atendimento em Serviços de Saúde
 
 * Engenharia Econômica I
 
-* Ergonomia do Produto e Trabalho
-
 * Inovação e Desenvolvimento de Produto
 
 * Pesquisa Operacional I
