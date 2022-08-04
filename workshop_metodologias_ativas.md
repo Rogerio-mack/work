@@ -63,7 +63,7 @@ Melhoria de Processos de Atendimento em Serviços de Saúde
 
 <br>
 
-> * O quê: **Pitch**, Quem: *Professor e Alunos*, Como: *Definição de critérios pelo grupo (professor e alunos), Avaliar argumentação e resultados, originalidade, comunicação*, Quando: *Na apresentação* 
+> * O quê: **Pitch**, Quem: *Professor e Alunos*, Como: *Definição de critérios pelo grupo (professor e alunos), Avaliar argumentação e resultados, originalidade, comunicação. Empregar o Teammate para avaliação entre 'pares' e nota pela média das avaliações dos pares*, Quando: *Na apresentação* 
 
 ## 4. Organização do projeto
 
