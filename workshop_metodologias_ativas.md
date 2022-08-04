@@ -1,3 +1,6 @@
+<a href="url"><img src="http://meusite.mackenzie.br/rogerio/mackenzie_logo/UPM.2_horizontal_vermelho.jpg" align="right" width="200" ></a>
+
+<br>
 
 # Workshop de Metodologias Ativas
 
@@ -41,7 +44,7 @@ Melhoria de Processos de Atendimento em Serviços de Saúde
 
 ### 2.3. Quais os *Learning Outcomes* para o projeto? (máx. 6)
 
-* Identificar os processos de atendimento em serviços de saúde
+* Identificar necessidades dos usuários e prestadores nos serviços de saúde
 
 * Identificar, categorizar e mapear os processos
 
