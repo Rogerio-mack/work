@@ -3,12 +3,15 @@
 <br>
 
 # Workshop de Metodologias Ativas
+**Grupo de Engenharia de Produção**
 
-## Grupo de Engenharia de Produção
+<br>
+
+<br>
 
 ## 1. Definição do Problema
 
-<a href="url"><img src="https://www.allankern.com.br/blog/wp-content/uploads/2018/06/Gest%C3%A3o-Processos.jpg" align="right" width="500" ></a>
+<a href="url"><img src="https://www.allankern.com.br/blog/wp-content/uploads/2018/06/Gest%C3%A3o-Processos.jpg" align="right" width="400" ></a>
 
 Melhoria de Processos de Atendimento em Serviços de Saúde 
 
