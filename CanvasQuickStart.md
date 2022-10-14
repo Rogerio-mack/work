@@ -134,6 +134,12 @@ O BBB é a mesma ferramenta que você já conhece do Moodle.
 
 Ou através de **Cursos > Avisos** ou através da **Caixa de Entrada** para mensagens individuais
 
+<br>
+
+
+## Atualizações do Conteúdo
+
+Não está habilitado a alteração dos conteúdos dos cursos pelo professor. Se houverem erros ou ajustes necessários nos conteúdos, envie as modificações para suporte.ead@mackenzie.br e/ou para o designer responsável pelo seu curso.
  
 
 
