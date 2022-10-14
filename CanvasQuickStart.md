@@ -4,7 +4,7 @@
 
 # **Canvas Quick Start**
 
-Este é apenas um Guia Rápido e pessoal que compartilho como uma ajuda aos demais professores. O treinamento oficial do Cedad e a plataforma trazem muito mais recursos, mas este 
+Este é apenas um Guia Rápido e pessoal que compartilho como uma ajuda aos demais professores. O material [Canvas Primeiros Passos](https://github.com/Rogerio-mack/work/raw/main/Canvas_primeiros%20passos.pdf) (28 páginas) e o vídeo de treinamento oficiais do Cedad, bem como a plataforma trazem muito mais recursos, mas este 
 pode ser um ponto de partida inicial para você. Para um melhor resultado, empregue esse Guia Rápido em conjunto com acesso à plataforma. 
 Haverá em, 19.10 um treinamento da plataforma para os ALUNOS e disponibilizarei o link de gravação do treinamento dos professores aqui, assim que for fornecido. 
 
