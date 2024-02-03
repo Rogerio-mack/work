@@ -1,38 +1,36 @@
-Sugestão de temas para projetos (TCCs, ICs e ITs) voltados à Análise de Dados e aplicações de Aprendizado de Máquina, sempre com foco na implementação das soluções:
+Sugestões dos principais temas e projetos (TCCs, ICs e ITs) voltados à Análise, Ciência de Dados e Aprendizado de Máquina, com foco aplicações:
 
-#### 1. Análise de Dados e Séries Temporais. 
+#### 1. Séries Temporais (Aprendizado de Máquina e Inteligência Artificial) 
 
-#### 2. Desenvolvimento de Aplicações para Dados Abertos. 
+#### 2. Aplicação de Dados Abertos Centro de Rádio-Astronomia e Astrofísica Mackenzie (Desenvolvimento Web e em Nuvem)
 
-#### 3. Elastic Search, Coleta e Análise de Dados. 
+#### 3. Análise de Dados Públicos sobre o Câncer no Estado de São Paulo (Ciência de Dados e Aprendizado de Máquina)
 
-#### 4. Detecção e Classificação de Imagens Médicas. 
+#### 4. Elastic Search, Coleta e Análise de Dados (Ciência de Dados e Aprendizado de Máquina)
 
-#### 5. Detecção de Anomalias. 
+#### 5. Detecção e Classificação de Imagens Médicas (Aprendizado de Máquina e Redes Neurais)
 
-#### 6. Aplicação de Modelos Largos de Linguagem (ChatGPT, Bard).
+#### 6. Aplicação de Modelos Largos de Linguagem (IA ChatGPT, Bard).
 
-#### 7. Aplicações de Estimativas de Pose Humana.
+Outros temas de interesse Detecção de Anomalias em Séries Temporais (https://hpi-information-systems.github.io/timeeval-evaluation-paper/ e https://scikit-learn.org/stable/modules/outlier_detection.html), modelos de Redes Sociais (Small-Worlds etc.) aplicados, Detecção de Poses Humanas em Imagens (https://github.com/CMU-Perceptual-Computing-Lab/openpose), Aplicações de Python para Finanças (Krastev, N. Python for Finance) etc.
 
 <br>
 
-Links e mais detalhes desses temas aqui: 
+Links e mais detalhes dos temas/projetos principais: 
 
-1. **Análise de Dados e Séries Temporais**. Análise de Séries Temporais e Implantação de Modelos Preditivos (previsão de demanda ou preços, por exemplo). São dados de maior interesse dados do comércio eletrônico (volume e preços de vendas), dados científicos (sinais de satélite, radio telescópios etc.), dados de sensores de equipamentos (consumo de combustível, falhas dos equipamentos, temperatura etc.). As análises podem ser desenvolvidas em Python, R. Preferencialmente, o aluno deve buscar uso de dados originais ainda não disponíveis publicamente. Você pode ter mais informações acessando nosso livro https://github.com/Introducao-Series-Temporais-em-Python/Book. 
+1. **Séries Temporais**. Aplicação de modelos de aprendizado de máquina e modelos estatístico para a previsão e análise de Séries Temporais (preços de imóveis, demandas de produtos, movimento em estradas, consumo e produção de energia etc.). A ideia é trabalhar dados originais com uma ou mais das seguintes fontes: a) dados de empresas (anonimizados); b) coleta de dados por web scrapping ou api's; c) dados abertos do governo. As análises podem ser desenvolvidas em Python ou R, e os modelos básicos terão com base o livro Oliveira, R., Abarracin, O. Y. E., Silva, G. R. (2024) [Introdução às Séries Temporais: Uma Abordagem Prática em Python](https://github.com/Introducao-Series-Temporais-em-Python/Book) (in printing). Editora Mackenzie. Requisitos: Programação Python ou R.   
 
-2. **Desenvolvimento de Aplicações para Dados Abertos**. Trata da disponibilização de dados científicos de forma aberta à comunidade. Se você e seu grupo tem conhecimento e/ou interesse no desenvolvimento de aplicações e uso de softwares livres para a coleta e tratamento de grandes volumes de dados, esse pode ser um projeto que pode interessar. Nosso portal hoje https://vlf-craam-a7df7.web.app/ agrega somente dados de VLF e está desenvolvido em Google FireBase. Haverá uma oficina do Google FireBase para os interessados.
+2. **Aplicação de Dados Abertos Centro de Rádio-Astronomia e Astrofísica Mackenzie**. Projeto de Desenvolvimento de Aplicação Web em Nuvem para disponibilidade de dados do CRAAM Centro de Rádio-Astronomia e Astrofísica Mackenzie. O CRAAM possui um grande número de dispositivos sensores como radio-telescópios, antenas GNSS e VLF, sensores meteorológicos,magnetômetros etc. No último ano desenvolvemos uma aplicação para disponibilizar de forma aberta os dados de VLF. Neste projeto essa plataforma deve ser expandida para dados de GNSS (sinais de GPS empregados em rádio astronomia) e implementar a alimentação automática dos dados dos dispositivos na nuvem (AWS). O projeto terá como base o trabalho Kauffmann, D.H.V, Santiago, L.S., Oliveira, R. (2023) [Open VLF: Plataforma de Dados Abertos para Very Low Frequency Data](https://github.com/open-vlf/academic/blob/main/Open%20VLF%20TCC.pdf), submetido para o Concurso de Teses e Trabalhos de Conclusão da SBSI 2024 (em andamento). Mais informações no GitHub do projeto https://github.com/open-vlf e no site da aplicação https://vlf-craam.web.app/. Requisitos: Conhecimentos de Desenvolvimento Web e uso de API's (AWS).
 
-3. **Elastic Search, Coleta e Análise de Dados**. O ES (https://www.elastic.co/pt/) é uma ferramenta de coleta e análise de dados aberta e amplamente utilizada no mercado. A ideia desse projeto é empregar essa ferramenta para a coleta e detecção de anomalias em dados de sensores (como sensores de temperatura, humidade, consumo de energia etc.) ou científicos (dados de GPS, rádio-telescópios etc.). Haverá um treinamento mínimo de ES.
+3. **Análise de Dados Públicos sobre o Câncer no Estado de São Paulo**. Trabalhar dados sobre Câncer no Estado de São Paulo disponibilizados pela Fundação Oncocentro de São Paulo (https://fosp.saude.sp.gov.br/fosp/diretoria-adjunta-de-informacao-e-epidemiologia/rhc-registro-hospitalar-de-cancer/banco-de-dados-do-rhc/). Haverá dois objetivos, podendo o projeto envolver um ou ambos: 1. Prover um dashboard de análise dos dados; 2. Previsão de estimativas de anos de vida e de anos de vida perdidos dos pacientes. As análises e previsões devem ser estratificadas por sexo, tipo de tumor, faixa etária etc. Requisitos: Conhecimentos de Python e de alguma ferramenta de Dashboard (desejável).
 
-4. **Detecção e Classificação de Imagens Médicas**. Temos em andamento um projeto de avaliação de idade óssea a partir de radiografias e um TCC para diagnóstico de doenças de pele. São aplicações de IA, com uso de redes neurais e modelos pré-treinados para medicina e outros tipos de dados podem ser empregados. Para ter uma ideia dessa temática você pode acessar https://iopscience.iop.org/article/10.1088/1757-899X/982/1/012005/pdf. Aqui, preferencialmente, o aluno deve buscar uso de dados originais ainda não disponíveis publicamente.
+4. **Elastic Search, Coleta e Análise de Dados**. O ES (https://www.elastic.co/pt/) é uma ferramenta de coleta e análise de dados aberta e amplamente utilizada no mercado. A ideia desse projeto é empregar essa ferramenta para a coleta e detecção de anomalias em dados de sensores (como sensores de temperatura, humidade, consumo de energia etc.) ou científicos (dados de GPS, rádio-telescópios etc.). No momento há uma iniciação científica empregando o Elastic Search para coleta de dados de painéis solares da Hauwei do Mackenzie, e que deve ser o ponto de partida desse projeto, embora outros dados possam ser empregados. Requisitos: Conhecimentos básicos de ambientes operacionais para instalação do ES.
 
-5. **Detecção de Anomalias**. A detecção de anomalias emprega técnicas de análise de dados para predição detecção de falha em equipamentos, prevenção de fraudes e identificação de fenômenos físicos que deixam sua assinatura em sinais de rádio ou GPS. Uma das ideias aqui é empregar os algoritmos do https://hpi-information-systems.github.io/timeeval-evaluation-paper/ e https://scikit-learn.org/stable/modules/outlier_detection.html. Aqui, preferencialmente, o aluno deve buscar uso de dados originais ainda não disponíveis publicamente.
+5. **Detecção e Classificação de Imagens Médicas**. Temos um andamento um projeto de avaliação de idade óssea a partir de radiografias e um TCC para diagnóstico de doenças de pele. São aplicações de IA, com uso de redes neurais e modelos pré-treinados para medicina e outros tipos de dados podem ser empregados. Para ter uma ideia dessa temática você pode acessar https://iopscience.iop.org/article/10.1088/1757-899X/982/1/012005/pdf. Aqui, preferencialmente, o aluno deve buscar uso de dados originais ainda não disponíveis publicamente. Requisitos: Sólido conhecimento de Python e já com algum conhecimento de modelos de aprendizado de máquina.
 
-6. **Aplicação de Modelos Largos de Linguagem (ChatGPT, Bard)**. A ideia desse projeto envolve fazer um levantamento dos Modelos Largos de Linguagem disponíveis e de como podem ser empregados, criando uma aplicação prática de uso de uma dessas ferramentas (através do uso de APIs disponíveis) ou explorando os impactos dessa tecnologia em algum mercado (através de uma pesquisa, e um modelo estatístico de confirmação desse impacto). A ideia inicial de aplicação é a análise do balanço de empresas listadas na bolsa.
+6. **Aplicação de Modelos Largos de Linguagem (ChatGPT, Bard)**. Empregar um grande modelo de linguagem para implementar de soluções com base em dados próprios de 'negócio' como construção de contratos ou descritivos de produtos padrão, análise de balanço ou de documentos de relação com investidores de empresas, Chat bot baseado em histórico de conversas etc. 
+No momento, por exemplo, temos uma proposta de projeto em aprovação para construção de um Chat bot de orientação de pacientes com HIV baseado em conversas de Whatsapp do núcleo de orientação à AIDS no estado de São Paulo. Requisitos: conhecimentos de Python e acesso a dados próprios e originais.
 
-7. **Aplicações de Estimativas de Pose Humana**. Estimativas de Pose Humana tem uma série aplicações para medicina, fisioterapia, esportes, segurança.
-Em geral, isso envolve detectar pontos do corpo a partir de imagens ou frames de vídeo, empregando modelos neurais e frameworks previamente treinados.
-No momento oriento um trabalho (TCC) em que empregamos o framework https://github.com/CMU-Perceptual-Computing-Lab/openpose para detecção do correto
-posicionamento de instrumentos musicais para músicos.  
+
 
 
