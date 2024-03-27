@@ -1,4 +1,4 @@
-Sugestões dos principais temas e projetos (TCCs, ICs e ITs) voltados à Análise, Ciência de Dados e Aprendizado de Máquina, com foco aplicações:
+Sugestões dos principais temas e projetos (TCCs, ICs, ITs e orientações) voltados à Análise, Ciência de Dados e Aprendizado de Máquina, com foco aplicações:
 
 #### 1. Séries Temporais (Aprendizado de Máquina e Inteligência Artificial) 
 
