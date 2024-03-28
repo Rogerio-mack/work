@@ -4,7 +4,7 @@
 > Celular | Whatsapp 11 97515-1919
 
 <br>
-<br>|
+<br>
 
 Sugestões dos principais temas e projetos (TCCs, ICs, ITs e orientações) voltados à Análise, Ciência de Dados e Aprendizado de Máquina, com foco aplicações:
 
