@@ -1,3 +1,11 @@
+# ROGERIO DE OLIVEIRA - Propostas de Projetos
+
+> rogerio.oliveira@mackenzie.br
+> Celular | Whatsapp 11 97515-1919
+
+<br>
+<br>|
+
 Sugestões dos principais temas e projetos (TCCs, ICs, ITs e orientações) voltados à Análise, Ciência de Dados e Aprendizado de Máquina, com foco aplicações:
 
 #### 1. Séries Temporais (Aprendizado de Máquina e Inteligência Artificial) 
