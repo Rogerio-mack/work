@@ -215,7 +215,7 @@ Bla bla bla..
 | brinquedos 			| rmse  | rmse  | ... |  rmse | rmse | rmse |
 | escritório			| rmse  | rmse  | ... |  rmse | rmse | rmse |
 | limpeza			| rmse  | rmse  | ... |  rmse | rmse | rmse |
-     ...
+|||| ... ||||
 | total   			| rmse  | rmse  | ... |  rmse | rmse | rmse |
 
 > Comente 
@@ -226,7 +226,7 @@ Bla bla bla..
 | brinquedos 			| rmse  | rmse  | ... |  rmse | rmse | rmse |
 | escritório			| rmse  | rmse  | ... |  rmse | rmse | rmse |
 | limpeza			| rmse  | rmse  | ... |  rmse | rmse | rmse |
-     ...
+|||| ... ||||
 | total   			| rmse  | rmse  | ... |  rmse | rmse | rmse |
 
 > Comente 
