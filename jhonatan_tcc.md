@@ -165,18 +165,30 @@ Salve em um dicionário ou em um dataframe, parm_SARIMA[‘categoria’] -> A(1,
 Execuções SARIMA (não é o pmdarima, ou se é o modelo é fixo) sobre receita total e categorias
 Para cada categoria (inclui a total):
 	SARIMA ou pdmaria com parm_SARIMA[‘categoria’]: 30 -> 1 (x 12 execuções) -> RMSE
+	SARIMA ou pdmaria com parm_SARIMA[‘categoria’]: 30 -> 1 (x 9 execuções) -> RMSE
 
 Resultados, isso é mostrado nos resultados.  
 
-SARIMA
+SARIMA -> 1m
 
-| categoria 			| 1  | 2 | ... | 12 | Média 12m | Média 3m |
-|-----------------|-----|----|-----|-----|-----------|----------|
-| brinquedos 			|rmse|rmse| ... |  rmse | rmse | rmse |
-| escritório			| rmse  | rmse  | ... |  rmse | rmse | rmse |
-| limpeza			| rmse  | rmse  | ... |  rmse | rmse | rmse |
-|||| ... ||||
-| total   			| rmse  | rmse  | ... |  rmse | rmse | rmse |
+| categoria 			| 1  | 2 | ... | 12 | Média |  
+|-----------------|-----|----|-----|-----|-----------| 
+| brinquedos 			|rmse|rmse| ... |  rmse | rmse | 
+| escritório			| rmse  | rmse  | ... |  rmse | rmse |  
+| limpeza			| rmse  | rmse  | ... |  rmse | rmse | 
+|||| ... ||| 
+| total   			| rmse  | rmse  | ... |  rmse | rmse |  
+
+SARIMA -> 3m
+
+| categoria 			| 1  | 2 | ... | 9 | Média |  
+|-----------------|-----|----|-----|-----|-----------|
+| brinquedos 			|rmse|rmse| ... |  rmse | rmse | 
+| escritório			| rmse  | rmse  | ... |  rmse | rmse |  
+| limpeza			| rmse  | rmse  | ... |  rmse | rmse |  
+|||| ... ||| 
+| total   			| rmse  | rmse  | ... |  rmse | rmse |  
+
 
 ### XGBOOST
 
@@ -188,14 +200,26 @@ Para cada categoria (inclui a total):
 
 Resultados, isso é mostrado nos resultados.  
 
-XGBOOST
-| categoria 			| 1  | 2 | ... | 12 | Média 12m | Média 3m |
-|-----------------|-----|----|-----|-----|-----------|----------|
-| brinquedos 			| rmse  | rmse  | ... |  rmse | rmse | rmse |
-| escritório			| rmse  | rmse  | ... |  rmse | rmse | rmse |
-| limpeza			| rmse  | rmse  | ... |  rmse | rmse | rmse |
-|||| ... ||||
-| total   			| rmse  | rmse  | ... |  rmse | rmse | rmse |
+XGBOOST -> 1m
+
+| categoria 			| 1  | 2 | ... | 12 | Média |  
+|-----------------|-----|----|-----|-----|-----------| 
+| brinquedos 			|rmse|rmse| ... |  rmse | rmse | 
+| escritório			| rmse  | rmse  | ... |  rmse | rmse |  
+| limpeza			| rmse  | rmse  | ... |  rmse | rmse | 
+|||| ... ||| 
+| total   			| rmse  | rmse  | ... |  rmse | rmse |  
+
+XGBOOST -> 3m
+
+| categoria 			| 1  | 2 | ... | 9 | Média |  
+|-----------------|-----|----|-----|-----|-----------|
+| brinquedos 			|rmse|rmse| ... |  rmse | rmse | 
+| escritório			| rmse  | rmse  | ... |  rmse | rmse |  
+| limpeza			| rmse  | rmse  | ... |  rmse | rmse |  
+|||| ... ||| 
+| total   			| rmse  | rmse  | ... |  rmse | rmse |  
+
 
 ### Escolha dos melhores modelos
 
@@ -210,32 +234,55 @@ Para concluir, crie um diagrama com todo o fluxo e fases dessa metodologia.
 Bla bla bla..
 
 **SARIMA**
-| categoria 			| 1  | 2 | ... | 12 | Média 12m | Média 3m |
-|-----------------|-----|----|-----|-----|-----------|----------|
-| brinquedos 			| rmse  | rmse  | ... |  rmse | rmse | rmse |
-| escritório			| rmse  | rmse  | ... |  rmse | rmse | rmse |
-| limpeza			| rmse  | rmse  | ... |  rmse | rmse | rmse |
-|||| ... ||||
-| total   			| rmse  | rmse  | ... |  rmse | rmse | rmse |
+SARIMA -> 1m
+
+| categoria 			| 1  | 2 | ... | 12 | Média |  
+|-----------------|-----|----|-----|-----|-----------| 
+| brinquedos 			|rmse|rmse| ... |  rmse | rmse | 
+| escritório			| rmse  | rmse  | ... |  rmse | rmse |  
+| limpeza			| rmse  | rmse  | ... |  rmse | rmse | 
+|||| ... ||| 
+| total   			| rmse  | rmse  | ... |  rmse | rmse |  
+
+SARIMA -> 3m
+
+| categoria 			| 1  | 2 | ... | 9 | Média |  
+|-----------------|-----|----|-----|-----|-----------|
+| brinquedos 			|rmse|rmse| ... |  rmse | rmse | 
+| escritório			| rmse  | rmse  | ... |  rmse | rmse |  
+| limpeza			| rmse  | rmse  | ... |  rmse | rmse |  
+|||| ... ||| 
+| total   			| rmse  | rmse  | ... |  rmse | rmse |  
+
 
 > Comente 
 
 **XGBOOST**
-| categoria 			| 1  | 2 | ... | 12 | Média 12m | Média 3m |
-|-----------------|-----|----|-----|-----|-----------|----------|
-| brinquedos 			| rmse  | rmse  | ... |  rmse | rmse | rmse |
-| escritório			| rmse  | rmse  | ... |  rmse | rmse | rmse |
-| limpeza			| rmse  | rmse  | ... |  rmse | rmse | rmse |
-|||| ... ||||
-| total   			| rmse  | rmse  | ... |  rmse | rmse | rmse |
+XGBOOST -> 1m
 
-> Comente 
+| categoria 			| 1  | 2 | ... | 12 | Média |  
+|-----------------|-----|----|-----|-----|-----------| 
+| brinquedos 			|rmse|rmse| ... |  rmse | rmse | 
+| escritório			| rmse  | rmse  | ... |  rmse | rmse |  
+| limpeza			| rmse  | rmse  | ... |  rmse | rmse | 
+|||| ... ||| 
+| total   			| rmse  | rmse  | ... |  rmse | rmse |  
+
+XGBOOST -> 3m
+
+| categoria 			| 1  | 2 | ... | 9 | Média |  
+|-----------------|-----|----|-----|-----|-----------|
+| brinquedos 			|rmse|rmse| ... |  rmse | rmse | 
+| escritório			| rmse  | rmse  | ... |  rmse | rmse |  
+| limpeza			| rmse  | rmse  | ... |  rmse | rmse |  
+|||| ... ||| 
+| total   			| rmse  | rmse  | ... |  rmse | rmse |  
 
 ## Melhores Modelos 
 
 |                         |   SARIMA   | SARIMA |  XGBOOST |  XGBOOST |   |
 |-|-|-| - |-|-|
-| categoria 			| **1m**  |  *3m** | **1m**  |  **3m** |  Melhor |
+| categoria 			| **1m**  |  **3m** | **1m**  |  **3m** |  Melhor |
 |-|-|-| - |-|-|
 | brinquedos 			| **rmse**  | **rmse**  |  rmse | rmse | **SARIMA** |
 | escritório			| **rmse**  | **rmse**  |  rmse | rmse | **SARIMA** |
