@@ -303,6 +303,8 @@ Discuta as métricas dos resultados, MAPE, MAE, MedAE (qual a implicação prát
 Aplicabilidade, importância
 Trabalhos futuros: análises complementares como a análise de erros dos modelos, aplicação de outros modelos de ML como modelos de redes neurais e transformers.
 
+Um nota sobre a disponibilidade dos dados (Kaggle, DOI) e fontes (GitHub, organização), incluindo aqui os links, incluindo também nas referências.
+
 # Referências
 
 (...)
