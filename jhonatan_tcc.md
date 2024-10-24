@@ -302,3 +302,7 @@ Discuta as métricas dos resultados, MAPE, MAE, MedAE (qual a implicação prát
 # Conclusão 
 Aplicabilidade, importância
 Trabalhos futuros: análises complementares como a análise de erros dos modelos, aplicação de outros modelos de ML como modelos de redes neurais e transformers.
+
+# Referências
+
+(...)
