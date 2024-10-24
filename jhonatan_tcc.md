@@ -10,9 +10,9 @@ Descritivo da empresa e dos dados. Seguimento, produtos, categorias, receita tot
 Novamente o resumo mais detalhado.
 
 Desse modo as contribuições desse trabalho são:
-1. Fornecer uma base de dados real e pública sobre vendas no varejo que possa ser utilizada para outros trabalhos de estudo de previsões de venda no varejo.
-2. Comparar modelos de previsão estatísticos e de aprendizado de máquina ao problema de previsões de vendas e receita no varejo. 
-3. Fornecer ao final, um melhor modelo para previsão de receita no curto prazo (1-3 meses) e disponibilizá-lo de modo aberto.
+1. Fornece uma base de dados real e pública sobre vendas no varejo que possa ser utilizada para outros trabalhos de estudo de previsões de venda no varejo.
+2. Compara modelos de previsão estatísticos e de aprendizado de máquina ao problema de previsões de vendas e receita no varejo. 
+3. Fornece ao final, um melhor modelo para previsão de receita no curto prazo (1-3 meses) e disponibilizá-lo de modo aberto.
 
 # Referencial Teórico
 
