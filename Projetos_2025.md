@@ -51,11 +51,11 @@ Sugestões e Oportunidades de temas de trabalhos/pesquisas...
  
 #### 6. Problemas de Otimização de Carteiras e Outras aplicações em Finanças
 
-Aqui a oportunidade é o de uso de algoritmos híbridos Computação Quântica, soluções que já vem sendo exploradas com empresas como o Itaú. | Conhecimentos envolvidos: Qiskit, Algoritmos Quânticos Variacionais, Programação Python, noções de otimização, conhecimentos do domínio
+> Aqui a oportunidade é o de uso de algoritmos híbridos Computação Quântica, soluções que já vem sendo exploradas com empresas como o Itaú. | Conhecimentos envolvidos: Qiskit, Algoritmos Quânticos Variacionais, Programação Python, noções de otimização, conhecimentos do domínio
 
 #### 7. Espectroscopia funcional de infravermelho próximo (fNIRS) 
 
-Mapeamento neurofuncional. 2xProjetos com o departamento de Psicologia. | Conhecimentos envolvidos: programação Matlab avançada.
+> Mapeamento neurofuncional. 2xProjetos com o departamento de Psicologia. | Conhecimentos envolvidos: programação Matlab avançada.
 
 <br>
 <br>
