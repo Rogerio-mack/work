@@ -27,7 +27,7 @@ Sugestões e Oportunidades de temas de trabalhos/pesquisas...
 
 [Análise e previsão de receitas no varejo: Comparação entre modelos SARIMA e XGBoost](https://github.com/jhonatan95w/SeriesTemporais-Varejo)
 
-[Detecção de Anomalias em Séries Temporais](https://hpi-information-systems.github.io/timeeval-evaluation-paper/)
+[Detecção de Anomalias em Séries Temporais](https://github.com/TimeEval/TimeEval)
 
 > Importante aqui são os dados de fontes primárias... dados de IoT, e-commerce etc. | Conhecimentos envolvidos: Aquisição de dados, conhecimento do domínio de aplicação, Estatística e Aprendizado de Máquina, R/Python
 
