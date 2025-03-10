@@ -21,7 +21,7 @@ Sugestões e Oportunidades de temas de trabalhos/pesquisas...
 
 [Análise de Modelos para Precificação de Imóveis em São Paulo](https://github.com/juliaronquetti/Modelo_predicao_SP)
 
-> Outras imagens: *GoogleEarth* | Conhecimentos envolvidos: IA, Deep Learning, TensorFlow/PyTorch, CNNs, transferência de aprendizado
+> Outras imagens: *GoogleEarth* | Conhecimentos envolvidos: IA, Deep Learning, TensorFlow/PyTorch, CNNs, transferência de aprendizado, object detection
   
 #### 2. **Séries Temporais**.
 
