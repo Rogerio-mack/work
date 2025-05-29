@@ -33,20 +33,19 @@ resíduos. Equipamentos fornecidos na modalidade de serviço.
     *   Linha de suporte técnico.
     *   Programas de treinamento para operar os biorreatores.
     *   Serviços regulares de manutenção.
-    *   Base de conhecimento online e FAQs.
 
-*   **Fontes de Receita**
+### **Fontes de Receita**
     *   **Venda do Serviço direto das unidades de biorreatores.**
     *   **Venda de subprodutos (biogás, composto – se o modelo de negócios incluir a gestão da saída).**
     *   **Créditos de carbono (se aplicável).**
 
-*   **Atividades-Chave**
+### **Atividades-Chave**
     *   **Projeto e construção dos biorreatores: fácil manutenção, seguros e monitoramento inteligente.**
     *   **Aplicativo de gestão do serviço.**
     *   Pesquisa e desenvolvimento (melhorar a eficiência do biorreator, explorar novas aplicações de subprodutos).
     *   **Avaliar alternativas de receita secundária com os resíduos (ver: Fontes de Receita)**
 
-*   **Recursos-Chave:**
+### **Recursos-Chave**
     *   Propriedade intelectual (patentes, designs).
     *   Instalações de fabricação.
     *   Equipe de vendas e marketing.
@@ -57,6 +56,7 @@ resíduos. Equipamentos fornecidos na modalidade de serviço.
     *   Capital
     *   Reputação
     *   Informação
+    
 *   **Parcerias-Chave:**
     *   Empresas de gestão de resíduos (para geração de leads e soluções integradas).
     *   Fornecedores de equipamentos para a indústria alimentar.
