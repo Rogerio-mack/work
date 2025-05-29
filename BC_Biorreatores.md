@@ -6,10 +6,10 @@ supermercados e outros locais da indústria alimentar para converter resíduos o
 resíduos. Equipamentos fornecidos na modalidade de serviço.
 
 ###   **Segmentos de Clientes**
-    *   Restaurantes
-    *   Supermercados
-    *   Empresas de *catering* [1]
-    *   Refeitórios (hospitais, escolas, empresas)
+    -   Restaurantes
+    -   Supermercados
+    -   Empresas de *catering* [1]
+    -   Refeitórios (hospitais, escolas, empresas)
 
 > [1] *catering*: fornecimento de comida preparada e alguns serviços correlatos (copos, louça, toalhas etc.) para festas, banquetes, restaurantes, companhias de aviação etc.; serviço de refeições coletivas.
 
