@@ -34,7 +34,7 @@ resíduos. Equipamentos fornecidos na modalidade de serviço.
 *   Imagem de marca melhorada (demonstrando sustentabilidade).
 *   Conformidade com regulamentos ambientais.
 
-### **Canais:**
+### **Canais**
 *   Força de vendas direta direcionada a clientes da indústria alimentar.
 *   **Parcerias com empresas de gestão de resíduos.**
 *   **Marketing online e redes sociais.**
