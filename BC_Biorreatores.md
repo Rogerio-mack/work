@@ -1,4 +1,11 @@
 ## **Business Case: Biorreatores de Pequena Escala para Gestão de Resíduos Alimentares**
+<br>
+<br>
+
+<img src="https://github.com/Rogerio-mack/work/raw/refs/heads/main/biorreatores2.jfif" width=300, align="center">
+
+<br>
+<br>
 
 ## **Conceito** 
 
@@ -6,6 +13,11 @@ Implementar biorreatores de pequena escala (até 10L-20L) em instalações de pr
 supermercados e outros locais da indústria alimentar para converter resíduos orgânicos em subprodutos valiosos 
 (ex: biogás para energia, composto para fertilizante) no próprio local reduzindo custo e problemas de armazenamento e transporte dos
 resíduos. Equipamentos fornecidos na modalidade de serviço.
+
+<img src="https://github.com/Rogerio-mack/work/raw/refs/heads/main/biorreatores.jfif" width=300, align="center">
+
+<br>
+<br>
 
 ###   **Segmentos de Clientes**
 *   Restaurantes
