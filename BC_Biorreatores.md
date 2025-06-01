@@ -54,8 +54,7 @@ resíduos. Equipamentos fornecidos na modalidade de serviço.
 *   **Créditos de carbono (se aplicável).**
 
 ### **Atividades-Chave**
-*   **Projeto e construção dos biorreatores: econômicos, fácil manutenção, seguros e monitoramento inteligente.**
-*       - Maior Desafio: biorreatores com eficiência energética e seguros
+*   **Projeto e construção dos biorreatores: econômicos, fácil manutenção, seguros e monitoramento inteligente.** Maior Desafio: biorreatores com eficiência energética e seguros
 *   **Aplicativo de gestão do serviço.**
 *   **Pesquisa e desenvolvimento (melhorar a eficiência do biorreator, explorar novas aplicações de subprodutos).**
 *   Avaliar alternativas de receita secundária com os resíduos (ver: Fontes de Receita).
