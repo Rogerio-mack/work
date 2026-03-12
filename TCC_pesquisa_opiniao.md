@@ -26,7 +26,7 @@ Empreguem somente modelos e recursos abertos, sendo 100% executável e aberto. P
 | 10-Jun | Escrita do Poster de TCC 1 |
 |         | **TCC 2** |
 | 30-Ago | Geração Final dos samples de LLM e ML |
-| 30-Set | Análises Compartivas: Acuracidade, Distribuições e Relevância das Features |
+| 30-Set | Análises Comparativas: Acuracidade, Distribuições e Relevância das Features |
 | 30-Out | Escrita do texto final do trabalho |
 
 ### Extra
