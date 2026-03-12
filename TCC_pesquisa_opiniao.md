@@ -1,9 +1,7 @@
-### **Projeto: Comparativos de Simulação de Opinião Pública (*Silicon Sampling*) por LLMs e Aprendizado de Máquina**
+## **Projeto: Comparativo da Simulação de Opinião Pública por LLMs e Aprendizado de Máquina Supervisionado**
 
 ### Resumo
-Com base em uma pesquisa de opinião do [Cesop](https://www.cesop.unicamp.br/) (Centro de Estudos de Opinião Pública) desenvolver um modelo LLM e um modelo de aprendizado supervisionado para simulação 
-das respostas dos questionários de pesquisa de opinião e comparar seus resultados. Escolha [aqui](https://drive.google.com/drive/folders/10Zv1waT-aTPFsYhZ6l1CSa3feDEBZ1R2?usp=sharing) a pesquisa de opinião 
-ou outro tema de pesquisa recente do [Cesop](https://www.cesop.unicamp.br/).
+Com base em uma pesquisa de opinião do [Cesop](https://www.cesop.unicamp.br/) (Centro de Estudos de Opinião Pública) desenvolver um modelo LLM e um modelo de aprendizado de máquina supervisionado para Simulação de Opinião Pública (*Silicon Sampling*) - simulação de respostas dos questionários de pesquisa de opinião - e comparar seus resultados. Escolha [aqui](https://drive.google.com/drive/folders/10Zv1waT-aTPFsYhZ6l1CSa3feDEBZ1R2?usp=sharing) a pesquisa de opinião ou outro tema de pesquisa recente do [Cesop](https://www.cesop.unicamp.br/).
 
 ### Referência
 Tenham como ponto de partida o artigo *Simulating Public Opinion: Comparing Distributional and Individual-Level Predictions from LLMs and Random Forests*, 
@@ -23,8 +21,8 @@ Empreguem somente modelos e recursos abertos, sendo 100% executável e aberto. P
 |-|-|
 |         | **TCC 1** |
 | 30-Mar | Escolha da Pesquisa, Entendimento do Projeto (leitura do artigo) e dados |
-| 30-Abr | Geração inicial das respostas via LLM |
-| 30-Mai | Geração das respostas via ML |
+| 30-Abr | Escolha do modelo LLM e Geração inicial das respostas via LLM |
+| 30-Mai | Geração das respostas via o modelo de aprendizado de máquina supervisionado |
 | 10-Jun | Escrita do Poster de TCC 1 |
 |         | **TCC 2** |
 | 30-Ago | Geração Final dos samples de LLM e ML |
